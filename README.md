@@ -1,2 +1,2 @@
-# baft_zf2BPM
-zend framework 2 busines process management module
+# BaftFlow
+zend framework 2 simple work flow management
